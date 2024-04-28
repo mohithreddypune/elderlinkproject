@@ -20,12 +20,12 @@ function Navbar() {
                   Home
                 </Link>
 
-                <Link
-                  to="/"
-                  className="hover:bg-button-primary hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-                >
-                  Feed
-                </Link>
+                <a
+              href="http://localhost:3000/"  // External link
+  className="hover:bg-button-primary hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+>
+  Feed
+</a>
                 <Link
                   to="/"
                   className="hover:bg-button-primary hover:text-white px-3 py-2 rounded-md text-sm font-medium"
@@ -48,7 +48,7 @@ function Navbar() {
             </div>
           </div>
 
-          <Link to="/">
+          <Link to="/login">
             <div className="hidden md:block hover:bg-button-primary px-4 py-1 rounded-xl">
               Log In
             </div>
