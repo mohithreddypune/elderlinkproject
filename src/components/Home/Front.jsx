@@ -1,5 +1,7 @@
 import { useState } from "react";
 import SearchBar from "./SearchBar";
+import "./Front.css";
+import {f1, f2, f3} from "../../assets/home"
 
 export default function Front() {
   const [searchBar, setSearchBar] = useState(false);

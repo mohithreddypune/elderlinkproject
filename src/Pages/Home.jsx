@@ -14,7 +14,7 @@ export default function Home() {
       <Front />
       <Stats />
       <Funds />
-      <Quiz />
+      {/* <Quiz /> */}
       <Discover />
       <HowItWorks />
       <News />

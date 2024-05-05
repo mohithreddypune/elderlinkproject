@@ -1,0 +1,6 @@
+#quizz2{
+    background-image: url("../../assets/home/quizz2.jpg") !important;
+}
+#quizz2 button:hover{
+background-color: blueviolet !important;
+}

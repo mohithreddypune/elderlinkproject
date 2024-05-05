@@ -1,0 +1,13 @@
+.hovering:hover{
+ color: rgb(168, 51, 200);
+ background-color: rgb(116, 210, 206);
+
+}
+.hovering{
+    color: coral;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(252, 219, 173);
+   }
+.fth:hover{
+transform: scale(1);}

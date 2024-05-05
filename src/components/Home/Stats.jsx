@@ -14,8 +14,11 @@ export default function Stats() {
         <p>New Conections</p>
       </div>
       <div>
-        <h1 className="md:text-[40px] text-[25px] font-bold">Coming soon</h1>
-        <p>Events</p>
+        <h1 className="md:text-[25px] text-[25px] font-bold">Upcoming Event:</h1>
+        <p ><span className="md:text-[25px] text-[25px] font-bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yoga</span><br></br>
+Tuesday, May 7, 2024<br></br>
+ 06:00 p.m.–07:00 p.m.
+</p>
       </div>
     </section>
   );
